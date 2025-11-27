@@ -1,0 +1,6 @@
+@SLAging_HostAddress = http://localhost:5156
+
+GET {{SLAging_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
